@@ -1,4 +1,7 @@
 # README
+https://qiita.com/Ushinji/items/522ed01c9c14b680222c
+キータの記事を参考に、railsにRSpecとFactory_botを導入する
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
